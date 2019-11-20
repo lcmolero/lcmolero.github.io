@@ -7,13 +7,13 @@
 - [Modelagem Preditiva em IoT - Previsão de Uso de Energia](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/Python/Projeto08)
 <img src="images/iot.png?raw=true"/>
 
-<!-- ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-<!-- ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+[Prevendo o Nível de Satisfação de Clientes](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/Python/Projeto03)
+<img src="images/cli.png?raw=true"/>
+
+
+[Prevendo Rotatividade de Clientes em Operadoras de Telecom](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/Python/Projeto04)
+<img src="images/churn.png?raw=true"/>
 
 ---
 
