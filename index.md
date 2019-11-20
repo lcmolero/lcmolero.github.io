@@ -8,11 +8,11 @@
 <img src="images/iot.png?raw=true"/>
 
 
-[Prevendo o Nível de Satisfação de Clientes](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/Python/Projeto03)
+- [Prevendo o Nível de Satisfação de Clientes](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/Python/Projeto03)
 <img src="images/cli.png?raw=true"/>
 
 
-[Prevendo Rotatividade de Clientes em Operadoras de Telecom](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/Python/Projeto04)
+- [Prevendo Rotatividade de Clientes em Operadoras de Telecom](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/Python/Projeto04)
 <img src="images/churn.png?raw=true"/>
 
 ---
@@ -27,7 +27,8 @@
 
 
 
-
+<br>
+</br>
 
 
 ---
