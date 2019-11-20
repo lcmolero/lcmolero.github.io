@@ -4,7 +4,7 @@
 
 ### Projetos em Python
 
-[Modelagem Preditiva em IoT - Previsão de Uso de Energia](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/Python/Projeto08)
+- [Modelagem Preditiva em IoT - Previsão de Uso de Energia](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/Python/Projeto08)
 <img src="images/iot.png?raw=true"/>
 
 <!-- ---
