@@ -22,11 +22,8 @@
 - [Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/R/Projeto01)
 <img src="images/clickmob.png?raw=true"/>
 
-<!--
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/) -->
+- [Prevendo Demanda de Estoque com Base em Vendas](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/R/Projeto02)
+<img src="images/stockdmd.png?raw=true"/>
 
 ---
 
