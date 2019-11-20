@@ -15,7 +15,7 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-
+---
 
 ### Projetos em R
 
@@ -25,7 +25,7 @@
 - [Prevendo Demanda de Estoque com Base em Vendas](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/R/Projeto02)
 <img src="images/stockdmd.png?raw=true"/>
 
----
+
 
 
 
