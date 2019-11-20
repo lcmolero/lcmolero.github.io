@@ -15,12 +15,9 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
+
 
 ### Projetos em R
-
-Em Breve
-
 
 - [Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile](https://github.com/lcmolero/Treinamento/tree/master/Formacao_Cientista_Dados/R/Projeto01)
 <img src="images/clickmob.png?raw=true"/>
